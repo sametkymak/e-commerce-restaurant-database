@@ -23,7 +23,9 @@ Proje Dosyaları
 PHASE-1 dosyası, veritabanı tasarımını ve iş kurallarını içerir.
 
 PHASE-2 dosyası, veritabanını oluşturmak ve verileri doldurmak için gereken SQL komutlarını içerir.
+
 [PHASE-1 Datenbank Entwurf von einem E-Commerce Restaurant .pdf](https://github.com/user-attachments/files/22523947/PHASE-1.Datenbank.Entwurf.von.einem.E-Commerce.Restaurant.pdf)
+
 [PHASE-2 Datenbank Entwurf von einem E-Commerce Restaurant .pdf](https://github.com/user-attachments/files/22523948/PHASE-2.Datenbank.Entwurf.von.einem.E-Commerce.Restaurant.pdf)
 
 # Ekip Üyeleri
