@@ -8,16 +8,19 @@ Bu proje, hayali bir restorantın operasyonel süreçlerinin sembolize edildiği
 Proje, iki ana aşamadan oluşmaktadır:
 
 Aşama 1: Veritabanı Tasarımı ve İş Kuralları
+
 Bu aşamada, veritabanının temel yapısı ve mantıksal modeli oluşturulmuştur. Bu dokümanda, veritabanı şemasının arkasındaki iş kuralları ve mantık detaylı bir şekilde açıklanmaktadır.
 
-İlgili Dosya: PHASE-1 Datenbank Entwurf von einem E-Commerce Restaurant.docx
+İlgili Dosya: PHASE-1 Datenbank Entwurf von einem E-Commerce Restaurant.pdf
 
 Aşama 2: SQL Komut Dosyaları
+
 Bu aşamada, tasarlanan veritabanı modeli temel alınarak, tablo oluşturma (CREATE TABLE), veri girişi (INSERT INTO) ve veri sorgulama (SELECT) gibi temel SQL komut dosyaları hazırlanmıştır.
 
-İlgili Dosya: PHASE-2 Datenbank Entwurf von einem E-Commerce Restaurant.docx
+İlgili Dosya: PHASE-2 Datenbank Entwurf von einem E-Commerce Restaurant.pdf
 
-Proje Dosyaları
+# Proje Dosyaları
+
 .mdf ve .ldf uzantılı dosyalar, projenin tamamlanmış veritabanı dosyalarıdır.
 
 PHASE-1 dosyası, veritabanı tasarımını ve iş kurallarını içerir.
