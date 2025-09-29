@@ -9,7 +9,7 @@ Proje, iki ana aşamadan oluşmaktadır:
 
 Aşama 1: Veritabanı Tasarımı ve İş Kuralları
 
-Bu aşamada, veritabanının temel yapısı ve mantıksal modeli oluşturulmuştur. Bu dokümanda, veritabanı şemasının arkasındaki iş kuralları ve mantık detaylı bir şekilde açıklanmaktadır.
+Bu aşamada, veritabanının temel yapısı ve mantıksal modeli oluşturulmuştur. Bu dokümanda, veritabanı şemasının arkasındaki iş kuralları ve mantık detaylı bir şekilde ilişki diyagramları ve şemalar üzerinde gösterilmiştir.
 
 İlgili Dosya: PHASE-1 Datenbank Entwurf von einem E-Commerce Restaurant.pdf
 
