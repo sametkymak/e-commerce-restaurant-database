@@ -2,7 +2,7 @@
 Bu proje, bir e-ticaret restoranı için tasarlanmış bir veritabanı çözümünü sunmaktadır. Proje, Marmara Üniversitesi'nde verilen ''Veri Tabanına Giriş'' dersi kapsamında hazırlanmış olup, teorik veritabanı tasarımı ve pratik SQL uygulamalarını birleştiren bir grup çalışmasıdır.
 
 # Proje Hakkında
-Bu proje, hayali bir restorantın operasyonel süreçlerinin sembolize edildiği diyagram akışlarını ve buna bağlı olarak hazırladığımız SQL sorgu kodlarını içermektedir. Veritabanını MS SQL 2022 programını kullanarak takım halinde oluşturduk. Veritabanımız sipariş yönetimi, müşteri bilgileri, ürünler, ödemeler, kurye takibi ve yorum sistemleri gibi temel işlevleri göstermektedir. 
+Bu proje, hayali bir restorantın operasyonel süreçlerinin sembolize edildiği diyagram akışlarını ve buna bağlı olarak hazırladığımız SQL sorgu kodlarını içermektedir. Veritabanını SQL programını kullanarak takım halinde oluşturduk. Veritabanımız sipariş yönetimi, müşteri bilgileri, ürünler, ödemeler, kurye takibi ve yorum sistemleri gibi temel işlevleri göstermektedir. 
 
 # Projenin Kapsamı
 Proje, iki ana aşamadan oluşmaktadır:
